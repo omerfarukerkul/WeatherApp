@@ -1,0 +1,8 @@
+<resources>
+    <string name="send_btn">Get Weather</string>
+    <string name="app_name">WeatherApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_one_day">OneDayActivity</string>
+    <string name="city_label">Favorite City:</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>
